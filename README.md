@@ -1,3 +1,3 @@
-# [Your plugin name]
+# Delete Assets Option
 
-[Describe what your plugin does, and how users you can configure it! Screenshots are always welcome!]
+Prompts the users to delete assets only referenced in the records they are deleting
